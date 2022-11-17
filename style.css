@@ -16,3 +16,51 @@ ul{
 table{
 border-collapse: collapse;
 }
+td{
+    visibility: collapse;
+}
+.one{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: absolute;
+    left:100px;
+    top: 100px;
+    z-index: 6;
+}
+.two{
+    width: 200px;
+    height: 200px;
+    background-color:red;
+    position: absolute;
+    left:200px;
+    top: 200px;
+    z-index: 2;
+}
+.three{
+    width: 200px;
+    height: 200px;
+    background-color:yellow;
+    position: absolute;
+    left:300px;
+    top: 300px;
+    z-index: 7; 
+}
+.four{
+    width: 200px;
+    height: 200px;
+    background-color:green;
+    position: absolute;
+    left:400px;
+    top: 400px;
+    z-index: 4;
+}
+.five{
+    width: 200px;
+    height: 200px;
+    background-color:purple;
+    position: absolute;
+    left:500px;
+    top: 500px;
+    z-index: 5;
+}
