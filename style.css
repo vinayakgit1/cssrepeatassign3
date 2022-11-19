@@ -64,3 +64,46 @@ td{
     top: 500px;
     z-index: 5;
 }
+#vinayak{
+    color:red;
+    width: 900px;
+    height: 150px;
+    background-color: aqua;
+    border-style:solid;
+    border-color: chartreuse;
+    text-align: center;
+    
+}
+#vinayak p{
+    color: blue;
+    text-align: justify;
+}
+.new{
+    background-color: yellow;
+    color: red;
+    width: 900px;
+    height: 150px;
+    border-style: double;
+    border-color: blue;
+    text-align: center;
+    
+
+}
+.new p{
+    text-align: justify;
+
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
